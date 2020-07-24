@@ -1,0 +1,25 @@
+{
+    "id": "E5F7AB8B",
+    "path": "~/Desktop/R/temporary_test_to_delete/test1.R",
+    "project_path": "test1.R",
+    "type": "r_source",
+    "hash": "2972472077",
+    "contents": "",
+    "dirty": false,
+    "created": 1595605373634.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "1,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1595605407,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1595605407626,
+    "read_only": false,
+    "read_only_alternatives": []
+}
